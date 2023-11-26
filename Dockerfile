@@ -1,4 +1,4 @@
-FROM node:14.4.0-buster-slim
+FROM node:21.2.0-bookworm-slim
 
 COPY . .
 
